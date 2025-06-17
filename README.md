@@ -1,8 +1,12 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%20&fontSize=90" />
 
-<!--
-**PerryL17/PerryL17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a>
+<img src="index.html/images/insta-icon.png" alt="Instagram Icon"> 
+<img src="index.html/images/2357363_circle_gradient_high quality_social_social media_icon copy.png">
+<img src="index.html/images/linkedin_icon copy.png">
+</a>
+<h2>a little about me<h2>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
