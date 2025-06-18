@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!%20&fontSize=85" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=225&section=header&text=Welcome!%20&fontSize=80" />
 <div style="text-align: center;">
   <a 
     href="https://www.instagram.com/gemcrate/">
@@ -14,9 +13,8 @@
       <img height="50" src="index.html/images/linkedin_icon copy.png">
   </a>
 </div>
-<h2 align="center">
-  Let's Connect!
-</h2>
+  <h2 align="center">Let's Connect</h2>
+
 <h2>a little about me<h2>
 
 ```yaml
@@ -72,6 +70,6 @@ hobbies: ["Editorial Styling", "Meditation", "Fermenting"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" alt="redis" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
 </p>
-<p align="center">Add commentMore actions
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
