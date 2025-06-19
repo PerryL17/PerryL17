@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=225&section=header&text=Welcome!%20&fontSize=80" />
+
 <div style="text-align: center;">
   <a 
     href="https://www.instagram.com/gemcrate/">
@@ -71,5 +72,5 @@ hobbies: ["Editorial Styling", "Meditation", "Fermenting"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>

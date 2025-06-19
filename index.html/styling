@@ -1,0 +1,7 @@
+.icon-container {
+  display: flex;
+  justify-content: center;  /* centers horizontally */
+  align-items: center;      /* centers vertically if needed */
+  gap: 16px;                /* space between icons */
+  margin-top: 20px;         /* optional spacing */
+}
