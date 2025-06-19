@@ -1,18 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=225&section=header&text=Welcome!%20&fontSize=80" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=225&section=header&text=Welcome!%20&fontSize=80">
+</div>
 
-<div style="text-align: center;">
-  <a 
-    href="https://www.instagram.com/gemcrate/">
-      <img height="50" src="index.html/images/insta-icon.png" alt="Instagram Icon">
-  </a>
-
-  <a>
-  <img height="50" src="index.html/images/2357363_circle_gradient_high quality_social_social media_icon copy.png">
-  </a>
-  <a 
-    href="https://www.linkedin.com/in/perrylittrell/">
-      <img height="50" src="index.html/images/linkedin_icon copy.png">
-  </a>
+<div align="center">
+    <a href="https://www.instagram.com/gemcrate/"><img height="50" src="index.html/images/insta-icon.png" alt="Instagram Icon"></a>
+    <img height="50" src="index.html/images/2357363_circle_gradient_high quality_social_social media_icon copy.png">
+    <a href="https://www.linkedin.com/in/perrylittrell/"><img height="50" src="index.html/images/linkedin_icon copy.png"></a>
 </div>
   <h2 align="center">Let's Connect</h2>
 
